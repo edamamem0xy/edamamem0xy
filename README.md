@@ -1,4 +1,4 @@
-- 👋 Howdy! Miko here, also known as Madilynx
+👋 Howdy! Miko here, also known as Madilynx
 # 💫 About Me:
 <br>- 🦊 Frontend fox here (trying to evolve into a fullstack fox)<br>- 🌱 Learning more about backend and ethical hacking<br>- 💞️ Currently working on my own website himalayaworld.net (Check it out after launch!)<br>- 📫 How to reach me: Discord - Miko#4090 ; Instagram - @ire_xena<br>-  ♂ She/Her<br>- 👐 Fun fact: I'm a human<br>
 
